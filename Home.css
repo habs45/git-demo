@@ -1,0 +1,22 @@
+.top{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn{
+    height: 30px;
+    width: 140px;
+    
+}
+
+.input-box{
+
+    width: 360px;
+}
+.btn-div{
+    margin-top: 20px;
+}
