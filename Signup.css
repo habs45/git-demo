@@ -1,0 +1,21 @@
+.signup-box{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+border: 5px solid blue;
+width: 300px;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+
+}
+.form-line{
+
+ margin-top: 5px;
+ margin-bottom: 5px ;
+ 
+
+}
